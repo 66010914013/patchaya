@@ -8,7 +8,7 @@
 <body>
     <h1>พัชยา ศรีมุกดา (โฟม)
 </h1>
-<img src= "images/1.jpg"width="305" >
+<img src= "images/1.jpg"width="300" >
     
 </body>
 </html>
