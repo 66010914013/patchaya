@@ -1,0 +1,25 @@
+https://github.com/thanacha-30/thanacha.git
+45.91.135.47
+http://45.91.135.47/thanacha/
+http://45.91.135.47/phpmyadmin/
+#ve!kciEM35W   #ve!kciEM35W
+Zx.0966765968
+192.168.1.8
+
+ssh root@45.91.135.47
+cd /var/www/html/patchaya/
+git config --global user.name "66010914013"
+git config --global user.email "66010914013@msu.ac.th"
+
+cd /var/www/html/patchaya/
+
+git clone https://github.com/66010914013/patchaya.git
+
+git config --global user.name "patchaya444999-coder"
+git config --global user.email "patchaya444999@gmail.com"
+
+
+
+sudo git clone https://github.com/66010914013/patchaya.git
+sudo git clone https://github.com/user/xxx.git
+ git clone https://github.com/66010914013/patchaya.git
